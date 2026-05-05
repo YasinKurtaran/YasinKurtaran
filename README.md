@@ -24,8 +24,8 @@ class Yasin:
 
 ## 🛠️ Tools
 
-![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS CODE](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GITHUB]
+![VS CODE]
 
 ---
 
