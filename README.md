@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <pre align="center">
+██╗   ██╗ █████╗ ███████╗██╗███╗   ██╗    ██╗  ██╗██╗   ██╗██████╗ ████████╗ █████╗ ██████╗  █████╗ ███╗   ██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║████╗  ██║    ██║ ██╔╝██║   ██║██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
+ ╚████╔╝ ███████║███████╗██║██╔██╗ ██║    █████╔╝ ██║   ██║██████╔╝   ██║   ███████║██████╔╝███████║██╔██╗ ██║
+  ╚██╔╝  ██╔══██║╚════██║██║██║╚██╗██║    ██╔═██╗ ██║   ██║██╔══██╗   ██║   ██╔══██║██╔══██╗██╔══██║██║╚██╗██║
+   ██║   ██║  ██║███████║██║██║ ╚████║    ██║  ██╗╚██████╔╝██║  ██║   ██║   ██║  ██║██║  ██║██║  ██║██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+  </pre>
+</p>
 
-<!--
-**YasinKurtaran/YasinKurtaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Yasin:
+    university = "Manisa Celal Bayar University"
+    major      = "Software Engineering"
+    focus      = ["AI Workflows", "AWS", "C Programming"]
+    credentials = ["Claude 101 Certified", "Claude Code 101 Certified"]
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Machine Learning & AI
+![Claude](https://img.shields.io/badge/Claude%203.5-blue?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-orange?style=for-the-badge&logo=anthropic&logoColor=white)
+
+## 🛠️ Tools
+
+![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS CODE](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎯 What I'm Up To
+
+*   🎓 Studying **Software Engineering** at **Manisa Celal Bayar University** .
+*   🤖 Mastering AI workflows and **Claude Code** through **Anthropic Academy**.
+*   💻 Developing core algorithms and system architectures using **C**.
+  
+---
+
+### 🏆 Certifications
+*   **Claude 101** - Anthropic Academy (May 2026)
+*   **Claude Code 101** - Anthropic Academy (May 2026)
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/yasin-kurtaran-306155319/)
