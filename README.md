@@ -13,7 +13,7 @@
 class Yasin:
     university = "Manisa Celal Bayar University"
     major      = "Software Engineering"
-    focus      = ["AI Workflows", "AWS", "C Programming"]
+    focus      = ["AI Workflows", "AWS"]
 ---
 
 
